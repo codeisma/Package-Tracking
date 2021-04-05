@@ -1,0 +1,13 @@
+input {
+    font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    padding: 15px;
+    margin: 12px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    align-items: center;
+}
+
+div.search-bar{
+    
+}
