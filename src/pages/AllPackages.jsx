@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 //Components
 import Package from "../components/Package";
-import Header from "../components/Header";
+
 
 //Style
 import "../styles/AllPackages.css";

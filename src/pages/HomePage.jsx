@@ -2,14 +2,11 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
-
 // Component
 import Header from "../components/Header.jsx";
 
 //Styles
 import "../styles/HomePage.css";
-
-
 
 export default function HomePage() {
 

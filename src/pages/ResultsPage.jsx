@@ -4,7 +4,6 @@ import { useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
 
 //Components
-import Header from "../components/Header";
 import Package from "../components/Package";
 
 export default function ResultsPage({information}){
