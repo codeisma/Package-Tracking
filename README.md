@@ -1,3 +1,13 @@
+#SDANINE PACKAGE TRACKING APP
+
+Installation
+
+### `npm install`
+
+### `npm start`
+
+![Screen Shot 2021-04-06 at 16 35 04](https://user-images.githubusercontent.com/78846716/113728131-14cc8100-96f6-11eb-8f11-10d0602d423c.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -8,13 +18,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
+### `npm `
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
