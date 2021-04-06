@@ -1,10 +1,13 @@
 #SDANINE PACKAGE TRACKING APP
 
+## KEEP TRACK!
+
+This app will allow users to displays a list of orders (or parcels)
+with some details they need to know like order status, ETAs, pickup locations, etc.
+
 Installation
-
-### `npm install`
-
-### `npm start`
+### `1-npm install`
+### `2-npm start`
 
 ![Screen Shot 2021-04-06 at 16 35 04](https://user-images.githubusercontent.com/78846716/113728131-14cc8100-96f6-11eb-8f11-10d0602d423c.png)
 
