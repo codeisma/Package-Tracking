@@ -1,6 +1,6 @@
-#SDANINE PACKAGE TRACKING APP
+###SDANINE PACKAGE TRACKING APP
 
-## KEEP TRACK!
+# KEEP TRACK!
 
 This app will allow users to displays a list of orders (or parcels)
 with some details they need to know like order status, ETAs, pickup locations, etc.
